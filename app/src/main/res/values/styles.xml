@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="groupStylegreen_A700cornerRadius">
+        <item name="android:background">@drawable/rectangle_bg_green_a700_radius_8</item>
+    </style>
+    <style name="groupStylegreen_50cornerRadius">
+        <item name="android:background">@drawable/rectangle_bg_green_50_radius_8</item>
+    </style>
+    <style name="txtLatoregular12_1">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">#7f14181f</item>
+        <item name="android:fontFamily">@font/lato</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+    <style name="btnSolidRounded">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:fontFamily">@font/work_sans</item>
+        <item name="android:textFontWeight" tools:targetApi="p">600</item>
+        <item name="android:background">@drawable/rectangle_bg_teal_700_radius_8</item>
+    </style>
+    <style name="txtLatoregular12">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">#757575</item>
+        <item name="android:fontFamily">@font/lato</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+    <style name="groupStylewhite_A700cornerRadius">
+        <item name="android:background">@drawable/rectangle_bg_white_a700_radius_8</item>
+    </style>
+    <style name="txtRobotoregular14">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">#757575</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+    <style name="groupStylecornerRadius">
+        <item name="android:background">@drawable/rectangle_radius_2</item>
+    </style>
+    <style name="txtRobotomedium16_1">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#006430</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textFontWeight" tools:targetApi="p">500</item>
+    </style>
+    <style name="txtRobotoregular14_1">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">#424242</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textFontWeight" tools:targetApi="p">400</item>
+    </style>
+    <style name="txtSolidRoundedLeftCorner">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textFontWeight" tools:targetApi="p">700</item>
+        <item name="android:background">@drawable/rectangle_bg_teal_800_radius_tl_8_bl_8</item>
+    </style>
+    <style name="txtRobotomedium14">
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">#0d47a1</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textFontWeight" tools:targetApi="p">500</item>
+    </style>
+    <style name="txtRobotomedium16">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#212121</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textFontWeight" tools:targetApi="p">500</item>
+    </style>
+    <style name="groupStylegray_50">
+        <item name="android:background">@drawable/rectangle_bg_gray_50</item>
+    </style>
+    <style name="txtRobotomedium20">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textFontWeight" tools:targetApi="p">500</item>
+    </style>
+    <style name="groupStylewhite_A700">
+        <item name="android:background">@drawable/rectangle_bg_white_a700</item>
+    </style>
+</resources>

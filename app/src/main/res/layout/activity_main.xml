@@ -77,7 +77,7 @@
                             android:lineSpacingExtra="3dp"
                             android:singleLine="true"
                             android:text="Digital Together Everyone Achieve More"
-                            android:textSize="12px"
+                            android:textSize="12dp"
                             android:textColor="#757575"
                             android:fontFamily="@font/lato"
                             android:textFontWeight="400"
@@ -91,7 +91,11 @@
                             android:lineSpacingExtra="3dp"
                             android:singleLine="true"
                             android:text="Jabar Digital Service"
-                            style="@style/txtLatoregular12" tools:text="Jabar Digital Service"/>
+                            android:textSize="12dp"
+                            android:textColor="#757575"
+                            android:fontFamily="@font/lato"
+                            android:textFontWeight="400"
+                            tools:text="Jabar Digital Service"/>
                     </LinearLayout>
                 </LinearLayout>
                 <LinearLayout android:gravity="start"
@@ -104,8 +108,8 @@
                         android:layout_height="44dp"
                         android:layout_width="44dp"
                         android:scaleType="centerCrop"
-                        circular="@{true}"
-                        imageRes="@{@drawable/img_ellipse1}"
+                        android:circular="@{true}"
+                        android:imageRes="@{@drawable/img_ellipse1}"
                         tools:ignore="ContentDescription" tools:src="@drawable/img_ellipse1"/>
                     <LinearLayout android:gravity="start"
                         android:id="@+id/linearColumndiasekafredia"
@@ -122,7 +126,11 @@
                             android:lineSpacingExtra="3dp"
                             android:singleLine="true"
                             android:text="Dias Eka Fredianto, S.Kom, B.IT"
-                            style="@style/txtRobotomedium16" tools:text="Dias Eka Fredianto, S.Kom, B.IT"/>
+                            android:textSize="16dp"
+                            android:textColor="#212121"
+                            android:fontFamily="@font/roboto"
+                            android:textFontWeight="500"
+                            tools:text="Dias Eka Fredianto, S.Kom, B.IT"/>
                         <TextView android:ellipsize="end"
                             android:id="@+id/txtUIDesigner"
                             android:layout_height="wrap_content"
@@ -132,7 +140,11 @@
                             android:lineSpacingExtra="3dp"
                             android:singleLine="true"
                             android:text="UI Designer"
-                            style="@style/txtRobotoregular14" tools:text="UI Designer"/>
+                            android:textSize="14dp"
+                            android:textColor="#757575"
+                            android:fontFamily="@font/roboto"
+                            android:textFontWeight="400"
+                            tools:text="UI Designer"/>
                     </LinearLayout>
                 </LinearLayout>
                 <LinearLayout android:gravity="start"
@@ -140,7 +152,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="28dp"
                     android:layout_width="match_parent"
-                    android:orientation="vertical" style="@style/groupStylewhite_A700cornerRadius">
+                    android:orientation="vertical"
+                    style="@style/groupStylewhite_A700cornerRadius">
                     <TextView android:ellipsize="end"
                         android:id="@+id/txtJamKerjaBulan"
                         android:layout_height="wrap_content"
@@ -204,24 +217,27 @@
                         android:singleLine="true"
                         android:text="Batas Minimum Jam Kerja 170 jam/bulan"
                         style="@style/txtLatoregular12_1" tools:text="Batas Minimum Jam Kerja 170 jam/bulan"/>
+
                     <androidx.appcompat.widget.AppCompatButton
-                        android:ellipsize="end" android:gravity="center"
                         android:id="@+id/btnCheckin"
+                        style="@style/btnSolidRounded"
+                        android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginBottom="24dp"
-                        android:layout_marginEnd="16dp"
                         android:layout_marginStart="16dp"
                         android:layout_marginTop="24dp"
-                        android:layout_width="match_parent"
+                        android:layout_marginEnd="16dp"
+                        android:layout_marginBottom="24dp"
+                        android:ellipsize="end"
+                        android:gravity="center"
                         android:lineSpacingExtra="3dp"
-                        android:paddingBottom="10dp"
-                        android:paddingEnd="30dp"
                         android:paddingStart="30dp"
                         android:paddingTop="10dp"
+                        android:paddingEnd="30dp"
+                        android:paddingBottom="10dp"
                         android:singleLine="true"
                         android:text="Checkin"
                         android:textAllCaps="false"
-                        style="@style/btnSolidRounded" tools:text="Checkin"/>
+                        tools:text="Checkin" />
                 </LinearLayout>
                 <LinearLayout android:gravity="start"
                     android:id="@+id/linearColumnlaporankamu"
