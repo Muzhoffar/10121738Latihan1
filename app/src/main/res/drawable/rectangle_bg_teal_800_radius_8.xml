@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--07/04/2023-->
+<!--NIM   : 10121738-->
+<!--Nama  : Rifqi Sirojul Muzhoffar-->
+<!--Kelas : IF-9-->
+
 <shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@color/teal_800"/>
     <corners android:radius="8dp"/>

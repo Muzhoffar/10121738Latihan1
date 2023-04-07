@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--07/04/2023-->
+    <!--NIM   : 10121738-->
+    <!--Nama  : Rifqi Sirojul Muzhoffar-->
+    <!--Kelas : IF-9-->
+
     <font app:font="@font/robotomedium" app:fontWeight="500"/>
     <font app:font="@font/robotoregular" app:fontWeight="400"/>
     <font app:font="@font/robotobold" app:fontWeight="700"/>

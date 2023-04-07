@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--07/04/2023-->
+<!--NIM   : 10121738-->
+<!--Nama  : Rifqi Sirojul Muzhoffar-->
+<!--Kelas : IF-9-->
+
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"

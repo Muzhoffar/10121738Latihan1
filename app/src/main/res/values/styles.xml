@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--07/04/2023-->
+<!--NIM   : 10121738-->
+<!--Nama  : Rifqi Sirojul Muzhoffar-->
+<!--Kelas : IF-9-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="groupStylegreen_A700cornerRadius">
         <item name="android:background">@drawable/rectangle_bg_green_a700_radius_8</item>
