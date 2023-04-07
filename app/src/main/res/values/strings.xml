@@ -1,3 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
     <string name="app_name">10121738Latihan1</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="lbl_130_53_jam">130.53 JAM</string>
+    <string name="lbl_checkin">Checkin</string>
+    <string name="lbl_izin">Izin</string>
+    <string name="lbl_wiki">Wiki</string>
+    <string name="lbl_april">April </string>
+    <string name="lbl_kehadiran">Kehadiran</string>
+    <string name="lbl_agenda">Agenda</string>
+    <string name="msg_jam_kerja_bulan">Jam Kerja Bulan Ini</string>
+    <string name="lbl_digiteam">DigiTeam</string>
+    <string name="lbl_laporan">Laporan</string>
+    <string name="lbl_buat_laporan">Buat Laporan</string>
+    <string name="msg_jam_kerja_kamu">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="msg_batas_minimum_j">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="lbl_booking">Booking</string>
+    <string name="msg_dias_eka_fredia">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="lbl_ui_designer">UI Designer</string>
+    <string name="msg_digital_togethe">Digital Together Everyone Achieve More</string>
+    <string name="lbl_maret">Maret</string>
+    <string name="msg_jabar_digital_s">Jabar Digital Service</string>
+    <string name="lbl_laporan_kamu">Laporan Kamu</string>
 </resources>

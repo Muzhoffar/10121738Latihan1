@@ -17,7 +17,7 @@
         <item name="android:textColor">#ffffff</item>
         <item name="android:fontFamily">@font/work_sans</item>
         <item name="android:textFontWeight" tools:targetApi="p">600</item>
-        <item name="android:background">@drawable/rectangle_bg_teal_700_radius_8</item>
+        <item name="android:background">@drawable/rectangle_bg_teal_800_radius_8</item>
     </style>
     <style name="txtLatoregular12">
         <item name="android:textSize">12dp</item>
